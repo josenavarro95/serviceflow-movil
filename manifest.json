@@ -1,0 +1,13 @@
+{
+  "background_color": "#ffffff",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "Serviceflow - Sistema de Citas",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "Serviceflow",
+  "start_url": "/",
+  "theme_color": "#a0633a",
+  "id": "serviceflow-movil",
+  "description": "Sistema profesional de gestión de citas y servicios para salones de belleza. Funciona offline y se sincroniza automáticamente."
+}
