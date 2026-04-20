@@ -1,0 +1,28 @@
+{
+  "background_color": "#ffffff",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "Serviceflow - Sistema de Citas",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "Serviceflow",
+  "start_url": "https://josenavarro95.github.io/serviceflow-movil/",
+  "theme_color": "#a0633a",
+  "icons": [
+    {
+      "src": "https://github.com/favicon.ico",
+      "type": "image/x-icon",
+      "isSquare": false,
+      "isPng": false,
+      "isWebp": false,
+      "isJpg": false,
+      "width": 0,
+      "is512x512": false,
+      "is256x256": false,
+      "is192x192": false
+    }
+  ],
+  "description": "Sistema profesional de gestión de citas y servicios para salones de belleza. Funciona offline y se sincroniza automáticamente.",
+  "id": "serviceflow-movil",
+  "lang": "es"
+}
